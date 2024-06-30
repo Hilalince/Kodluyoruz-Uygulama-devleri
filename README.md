@@ -1,1 +1,1 @@
-# Kodluyoruz-Uygulama-devleri
+# Kodluyoruz-Uygulama-odevleri
